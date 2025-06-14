@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/a1735ugg/gtechscale.com
+    - /bin/cp -R test2 $DEPLOYPATH
